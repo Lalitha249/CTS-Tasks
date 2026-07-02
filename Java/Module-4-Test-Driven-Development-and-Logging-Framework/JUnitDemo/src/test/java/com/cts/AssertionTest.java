@@ -1,0 +1,13 @@
+package com.cts;
+import static org.junit.Assert.*;
+import org.junit.Test;
+public class AssertionTest {
+
+	@Test
+	public void assertionTest(){
+		assertEquals(5,2+3);
+		assertTrue(5>3);
+		assertFalse(5>3);
+		assertNotNull(new Object());
+	}
+}
