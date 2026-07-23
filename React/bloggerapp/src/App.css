@@ -1,0 +1,32 @@
+.App {
+
+    text-align:center;
+
+    font-family:Arial;
+
+    margin:30px;
+
+}
+
+
+li {
+
+    margin:10px;
+
+}
+
+
+table {
+
+    margin:auto;
+
+    border-collapse:collapse;
+
+}
+
+
+td,th {
+
+    padding:10px;
+
+}

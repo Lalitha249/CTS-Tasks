@@ -1,0 +1,4 @@
+react
+npx create-react-app genc -my-app-demo
+it needs libraryy
+npm start 
